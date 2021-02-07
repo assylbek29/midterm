@@ -1,1 +1,4 @@
 git checout master
+git rm -r midterm 
+git commit -m "midterm"
+git push origin master
